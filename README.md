@@ -3,7 +3,6 @@
 - ✨ My name is B Seah and I'm a student at Columbia College, Columbia University
 - 😄 Pronouns: she/her/hers
 - 🔭 I'm currently working on an AR application at the Columbia Graphics and User Interfaces Lab
-- 👩‍🎨 I'm interested in the intersection between technology and art
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bieseah&count_private=true&showicons=true)]()
 
